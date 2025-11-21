@@ -48,6 +48,7 @@ The goal is to explore trends and summarize layoffs across companies, locations,
 - `03_advanced_analytics.sql`
 - `04_monthly_rolling_totals.sql`
 3. Inspect results and export snapshots for reporting or visualization.
+  
 
 
 ## Notes
@@ -56,3 +57,6 @@ The goal is to explore trends and summarize layoffs across companies, locations,
 
 
 ---
+
+## 🌟 About Me
+Hi there! I'm Mohamed Hegazy, a junior data analyst who loves working with data to uncover patterns and insights. I’m passionate about turning raw data into clean, visual, and easy-to-understand information. I mainly work with Excel, SQL, Python, and Power BI to analyze and visualize data effectively.
