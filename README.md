@@ -7,7 +7,7 @@ This repository contains exploratory data analysis (EDA) scripts for the Layoffs
 ## What’s included
 
 
-- `data/layoff_stagings2.csv` — cleaned up dataset (from the previous project ==>> )
+- `data/layoff_stagings2.csv` — cleaned up dataset (from the previous project ==>>) [https://github.com/mohamedhegazy010091-spec/layoffs-sql-cleaning-project] )
 - `scripts/` — SQL scripts used for EDA and analysis
 
 
