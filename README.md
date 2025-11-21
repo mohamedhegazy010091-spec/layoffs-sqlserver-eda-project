@@ -3,11 +3,26 @@
 
 This repository contains exploratory data analysis (EDA) scripts for the Layoffs dataset using **SQL Server (T-SQL)**.
 
+---
 
+layoffs-sqlserver-eda-project/
+
+```
+├── README.md
+├── data/
+│ └── layoffs.csv
+├── scripts/
+│ ├── 01_eda_basic_queries.sql
+│ ├── 02_grouped_analysis.sql
+│ ├── 03_advanced_analytics.sql
+│ └── 04_monthly_rolling_totals.sql
+```
+
+---
 ## What’s included
 
 
-- `data/layoff_stagings2.csv` — cleaned up dataset (from the previous project ==>>) [https://github.com/mohamedhegazy010091-spec/layoffs-sql-cleaning-project] )
+- `data/layoff_stagings2.csv` — cleaned up dataset (from the previous project ==>> [https://github.com/mohamedhegazy010091-spec/layoffs-sql-cleaning-project] )
 - `scripts/` — SQL scripts used for EDA and analysis
 
 
